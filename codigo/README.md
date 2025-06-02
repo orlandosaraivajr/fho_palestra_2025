@@ -3,10 +3,6 @@
 Desafio técnico para os alunos da disciplina "Desenvolvimento Web 3"
 
 
-
-[Vídeo com a explicação](https://youtu.be/cUF0HCShfYc)
-
-
 No ambiente Linux:
 
 ```console
@@ -83,17 +79,6 @@ Todos os testes unitários estão passando, e o sistema funciona como previsto p
 ## Requisitos para a Sprint 2
 
 Aqui começa seu desafio. 
-Para começar, você precisa criar um superusuário:
-
-<img src="img/create_admin.png">
-
-Crie um superusuário com as seguintes credenciais:
-
-- Username <b>admin</b>:
-- E-mail address <b>seu e-mail institucional</b>:
-- Password <b>fatec</b>:
-
-
 
 
 ## Novo campo
