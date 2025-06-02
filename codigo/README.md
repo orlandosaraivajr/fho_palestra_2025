@@ -11,6 +11,7 @@ cd fho_palestra_2025/
 virtualenv -p python3 venv
 source venv/bin/activate
 pip install -r requirements.txt
+cd codigo/
 cd estagios/
 python manage.py migrate
 python manage.py test
@@ -31,6 +32,7 @@ activate.bat
 cd ..
 cd ..
 pip install -r requirements.txt
+cd codigo/
 cd estagios/
 python manage.py migrate
 python manage.py test
