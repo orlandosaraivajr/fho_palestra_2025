@@ -7,7 +7,7 @@ No ambiente Linux:
 
 ```console
 git clone https://github.com/orlandosaraivajr/fho_palestra_2025.git
-cd codigo/
+cd fho_palestra_2025/
 virtualenv -p python3 venv
 source venv/bin/activate
 pip install -r requirements.txt
@@ -23,7 +23,7 @@ No ambiente Windows:
 
 ```console
 git clone https://github.com/orlandosaraivajr/fho_palestra_2025.git
-cd codigo/
+cd fho_palestra_2025/
 virtualenv venv
 cd venv
 cd scripts
